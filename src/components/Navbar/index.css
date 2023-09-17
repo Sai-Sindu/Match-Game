@@ -1,0 +1,33 @@
+.navbar-container {
+  background-color: #2c0e3a;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.website-logo {
+  height: 50px;
+  margin-left: 30px;
+}
+.score-timer-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.score {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.visible-results {
+  color: #fec653;
+  font-size: 20px;
+  margin-right: 30px;
+}
+.timer-icon {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}

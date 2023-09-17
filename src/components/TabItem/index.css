@@ -1,0 +1,9 @@
+.tab-button {
+  border-width: 0;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}
